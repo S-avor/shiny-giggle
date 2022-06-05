@@ -1,0 +1,16 @@
+logrotate state -- version 2
+"/home/ros/.cache/upstart/upstart-event-bridge.log" 2022-6-5-22:31:16
+"/home/ros/.cache/upstart/window-stack-bridge.log" 2022-6-5-22:31:16
+"/home/ros/.cache/upstart/unity-settings-daemon.log" 2022-6-5-22:31:16
+"/home/ros/.cache/upstart/hud.log" 2022-6-5-22:31:16
+"/home/ros/.cache/upstart/unity7.log" 2022-6-5-22:31:16
+"/home/ros/.cache/upstart/at-spi2-registryd.log" 2022-6-5-22:31:16
+"/home/ros/.cache/upstart/dbus.log" 2022-6-5-22:31:16
+"/home/ros/.cache/upstart/unity-panel-service.log" 2022-6-5-22:31:16
+"/home/ros/.cache/upstart/ssh-agent.log" 2022-6-5-22:31:16
+"/home/ros/.cache/upstart/bamfdaemon.log" 2022-6-5-22:31:16
+"/home/ros/.cache/upstart/gnome-keyring-ssh.log" 2022-6-5-22:31:16
+"/home/ros/.cache/upstart/indicator-sound.log" 2022-6-5-22:31:16
+"/home/ros/.cache/upstart/gpg-agent.log" 2022-6-5-22:31:16
+"/home/ros/.cache/upstart/update-notifier-release.log" 2022-6-5-22:31:16
+"/home/ros/.cache/upstart/update-notifier-cds.log" 2022-3-9-22:32:8

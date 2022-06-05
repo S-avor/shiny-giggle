@@ -1,0 +1,20 @@
+Gazebo multi-robot simulator, version 7.0.0
+Copyright (C) 2012-2016 Open Source Robotics Foundation.
+Released under the Apache 2 License.
+http://gazebosim.org
+
+
+(1654439561 128772052) [Msg] Waiting for master.
+(1654439561 129257893) Failed to create connection to remote host[localhost:11345]
+(1654439562 139421869) [Msg] Connected to gazebo master @ http://127.0.0.1:11345
+(1654439562 139562492) [Msg] Publicized address: 192.168.178.130
+(1654439562 142776362) Loaded .ini file from: "/home/ros/.gazebo/gui.ini"
+(1654439563 737079095) [Err] [Node.cc:105] No namespace found
+(1654439564 745548960) [Err] [Node.cc:105] No namespace found
+(1654439564 788798638) [Err] [InsertModelWidget.cc:298] Missing model.config for model "/home/ros/tutorial_ws/src/ROS-Academy-for-Beginners/robot_sim_demo/models/meshes"
+(1654439564 789150487) model.config file is missing in directory["/home/ros/tutorial_ws/src/ROS-Academy-for-Beginners/robot_sim_demo/models/meshes"]
+(1654439565 819389158) [Err] [Node.cc:105] No namespace found
+(1654439567 723872668) [Err] [ModelDatabase.cc:234] No <database> tag in the model database database.config found here[http://gazebosim.org/models/]
+(1654439567 723965952) [Err] [ModelDatabase.cc:293] Unable to download model manifests
+(1654439567 735903765) No spacenav daemon found. Spacenav functionality is disabled
+(1654439635 622524383) [Wrn] [Publisher.cc:140] Queue limit reached for topic /gazebo/default/user_camera/pose, deleting message. This warning is printed only once.

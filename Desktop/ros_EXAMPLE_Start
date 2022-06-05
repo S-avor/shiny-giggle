@@ -1,0 +1,3 @@
+roslaunch robot_sim_demo robot_spawn.launch
+
+rosrun robot_sim_demo robot_keyboard_teleop.py

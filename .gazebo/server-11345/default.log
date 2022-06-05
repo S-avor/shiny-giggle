@@ -1,0 +1,21 @@
+Gazebo multi-robot simulator, version 7.0.0
+Copyright (C) 2012-2016 Open Source Robotics Foundation.
+Released under the Apache 2 License.
+http://gazebosim.org
+
+
+(1654439561 255308956) [Msg] Waiting for master.
+(1654439561 265162052) [Msg] Connected to gazebo master @ http://127.0.0.1:11345
+(1654439561 265337316) [Msg] Publicized address: 192.168.178.130
+(1654439561 592664872) [Wrn] [ModelDatabase.cc:339] Getting models from[http://gazebosim.org/models/]. This may take a few seconds.
+(1654439564 121067766) [Err] [ModelDatabase.cc:234] No <database> tag in the model database database.config found here[http://gazebosim.org/models/]
+(1654439564 121135673) [Err] [ModelDatabase.cc:293] Unable to download model manifests
+(1654439564 121259608) [Err] [ModelDatabase.cc:413] Unable to download model[model://sun]
+(1654439564 121291543) [Err] [SystemPaths.cc:410] File or path does not exist[""]
+(1654439564 121395817) [Wrn] [ModelDatabase.cc:339] Getting models from[http://gazebosim.org/models/]. This may take a few seconds.
+(1654439566 53038575) [Err] [ModelDatabase.cc:234] No <database> tag in the model database database.config found here[http://gazebosim.org/models/]
+(1654439566 53115689) [Err] [ModelDatabase.cc:293] Unable to download model manifests
+(1654439566 53235546) [Err] [ModelDatabase.cc:413] Unable to download model[model://ground_plane]
+(1654439566 53284576) [Err] [SystemPaths.cc:410] File or path does not exist[""]
+(1654439566 263650689) Init world[default]
+(1654439593 869371910) [Wrn] [Publisher.cc:140] Queue limit reached for topic /gazebo/default/physics/contacts, deleting message. This warning is printed only once.

@@ -1,0 +1,21 @@
+[rosmaster.main][INFO] 2022-06-05 22:31:28,706: initialization complete, waiting for shutdown
+[rosmaster.main][INFO] 2022-06-05 22:31:28,707: Starting ROS Master Node
+[xmlrpc][INFO] 2022-06-05 22:31:28,708: XML-RPC server binding to 0.0.0.0:11311
+[xmlrpc][INFO] 2022-06-05 22:31:28,708: Started XML-RPC server [http://ubuntu:11311/]
+[xmlrpc][INFO] 2022-06-05 22:31:28,708: xml rpc node: starting XML-RPC server
+[rosmaster.master][INFO] 2022-06-05 22:31:28,709: Master initialized: port[11311], uri[http://ubuntu:11311/]
+[rosmaster.master][INFO] 2022-06-05 22:31:28,802: +PARAM [/run_id] by /roslaunch
+[rosmaster.master][INFO] 2022-06-05 22:31:28,803: +PARAM [/roslaunch/uris/host_ubuntu__33491] by /roslaunch
+[rosmaster.master][INFO] 2022-06-05 22:31:31,163: +PARAM [/rosversion] by /roslaunch
+[rosmaster.master][INFO] 2022-06-05 22:31:31,163: +PARAM [/rosdistro] by /roslaunch
+[rosmaster.master][INFO] 2022-06-05 22:31:41,491: +SERVICE [/rosout/get_loggers] /rosout http://ubuntu:38733/
+[rosmaster.master][INFO] 2022-06-05 22:31:41,491: +SERVICE [/rosout/set_logger_level] /rosout http://ubuntu:38733/
+[rosmaster.master][INFO] 2022-06-05 22:31:41,493: +PUB [/rosout_agg] /rosout http://ubuntu:38733/
+[rosmaster.master][INFO] 2022-06-05 22:31:41,962: +SUB [/rosout] /rosout http://ubuntu:38733/
+[rosmaster.master][INFO] 2022-06-05 22:32:03,060: -PUB [/rosout_agg] /rosout http://ubuntu:38733/
+[rosmaster.master][INFO] 2022-06-05 22:32:03,061: -SUB [/rosout] /rosout http://ubuntu:38733/
+[rosmaster.master][INFO] 2022-06-05 22:32:03,062: -SERVICE [/rosout/get_loggers] /rosout rosrpc://ubuntu:45461
+[rosmaster.master][INFO] 2022-06-05 22:32:03,063: -SERVICE [/rosout/set_logger_level] /rosout rosrpc://ubuntu:45461
+[rosmaster.main][INFO] 2022-06-05 22:32:03,965: keyboard interrupt, will exit
+[rosmaster.main][INFO] 2022-06-05 22:32:03,965: stopping master...
+[rospy.core][INFO] 2022-06-05 22:32:03,965: signal_shutdown [atexit]

@@ -1,0 +1,6 @@
+
+
+1654439527.957952212  Node Startup
+1654439561.255391446 INFO [/tmp/binarydeb/ros-kinetic-roscpp-1.12.17/src/libros/service.cpp:80(service::exists) [topics: /rosout] waitForService: Service [/gazebo/set_physics_properties] has not been advertised, waiting...
+1654439566.231920153 INFO [/tmp/binarydeb/ros-kinetic-roscpp-1.12.17/src/libros/service.cpp:123(service::waitForService) [topics: /rosout, /clock, /gazebo/link_states, /gazebo/model_states] waitForService: Service [/gazebo/set_physics_properties] is now available.
+1654439566.307054527 INFO [/tmp/binarydeb/ros-kinetic-gazebo-ros-2.5.21/src/gazebo_ros_api_plugin.cpp:2367(GazeboRosApiPlugin::physicsReconfigureThread) [topics: /rosout, /clock, /gazebo/link_states, /gazebo/model_states, /gazebo/parameter_descriptions, /gazebo/parameter_updates] Physics dynamic reconfigure ready.

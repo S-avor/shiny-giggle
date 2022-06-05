@@ -1,0 +1,6 @@
+Dbg [parser.cc:386] Converting a deprecated source[/usr/share/gazebo-7/worlds/empty.world].
+Dbg [Converter.cc:59] Version[1.5] to Version[1.6]
+  Please use the gz sdf tool to update your SDF files.
+    $ gz sdf -c [sdf_file]
+Error [parser.cc:581] Unable to find uri[model://sun]
+Error [parser.cc:581] Unable to find uri[model://ground_plane]
